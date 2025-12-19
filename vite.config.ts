@@ -21,7 +21,7 @@ export default defineConfig({
   // Set base to your repository name if deploying to GitHub Pages
   // For root domain deployment, use '/'
   // For subdirectory deployment, use '/repository-name/'
-  base: process.env.GITHUB_PAGES === 'true' ? '/Habit-Forge/' : '/',
+  base: process.env.GITHUB_PAGES === 'true' ? '/HabitForge/' : '/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
