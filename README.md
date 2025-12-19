@@ -2,6 +2,8 @@
 
 **Habits Forge Who You Become**
 
+> Deployed on GitHub Pages
+
 A premium, minimal habit tracking web application designed to help users build their future self through consistent daily habits across four foundational dimensions.
 
 ## 🧬 Core Concept
